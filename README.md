@@ -24,7 +24,7 @@ An AI-powered student productivity platform designed to help students learn smar
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+
 
 ## 🚀 Live Demo
 
