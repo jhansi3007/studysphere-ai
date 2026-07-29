@@ -37,7 +37,7 @@ Study planner
 
 
 ## 🚀 Live Demo
-
+👉🚀
 https://studysphere-ai-saas-szyr.bolt.host
 
 ## 📌 Future Improvements
