@@ -28,7 +28,7 @@ An AI-powered student productivity platform designed to help students learn smar
 
 ## 🚀 Live Demo
 
-(Add your published Bolt URL here)
+https://studysphere-ai-saas-szyr.bolt.host
 
 ## 📌 Future Improvements
 
